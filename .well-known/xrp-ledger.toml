@@ -1,0 +1,15 @@
+[[ACCOUNTS]]
+address = "rhx7TS94iyuEn5Nhs7MrzfnGscvoz2Dxgf"
+description = "Main issuing account for Aletheia (ALH) token."
+
+[[CURRENCIES]]
+code = "ALH"
+issuer = "rhx7TS94iyuEn5Nhs7MrzfnGscvoz2Dxgf"
+display_precision = 2
+symbol = "ALH"
+icon = "https://aletheia.ltd/assets/alh-logo.png"
+
+[[PRINCIPALS]]
+name = "Saadman Rafat"
+twitter = "saadmanrafat_"
+website = "https://aletheia.tld"
